@@ -55,8 +55,8 @@ menu:
     url:               /projects/
   - title:             Résumé*
     url:               /resume/
-  - title:             Documentation
-    url:               /docs/
+#  - title:             Documentation
+#    url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -65,8 +65,8 @@ legal:
     url:               /LICENSE/
   - title:             NOTICE
     url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+#  - title:             CHANGELOG
+#    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2023. All rights reserved.
@@ -364,11 +364,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+ social:
+   name:                <João> <Aleixo>
+   links:
+     - https://twitter.com/<jalxp>
+     - https://github.com/<jalxp>
 
 
 # Plugin Configs
